@@ -34,7 +34,7 @@ Each project in this repo contains a separate project, complete with documentati
 # Profile / Portfolio Link
 
 You can view my full collection of interactive dashboards and case studies here:  
-[Click to view my Power BI Portfolio](https://github.com/Adenuga-Adeyemi/).
+[Click to view my Profile](https://github.com/Adenuga-Adeyemi/).
 
 ---
 
