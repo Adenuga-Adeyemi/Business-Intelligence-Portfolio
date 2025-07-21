@@ -30,7 +30,7 @@ Welcome to my Business Intelligence Portfolio, a curated collection of data proj
 
 Each project in this repo contains a separate project, complete with documentation, datasets (when shareable), visuals, and Power BI files.
 
-## Featured Projects
+# Featured Projects
 
 -**Deli Grocery Sales Analysis Report** [View Project](https://medium.com/@pearlxta/deli-grocery-sales-analysis-report-278856f89054)
 This report highlights a recent project where I designed a 4-page dynamic and interactive Power BI Dashboard for a food grocery store. The primary objective was to help business owners and managers quickly visualize key performance metrics, understand sales trends, and make informed decisions that align with customer needs.
@@ -61,7 +61,5 @@ The sales report analyzes revenue, profitability, and sales trends from 2011 to 
 Data was collected from a hotel bookings dataset comprising attributes related to reservations, guest details, stay duration, hotel type, pricing, and customer behaviors. Data was sourced in CSV format and imported into Power BI for further processing.
 
 Feel free to explore and reach out. This portfolio reflects my passion for storytelling with data.  
-
-🔗 [Portfolio link here if applicable]
 
 
