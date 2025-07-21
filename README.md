@@ -30,6 +30,14 @@ Welcome to my Business Intelligence Portfolio, a curated collection of data proj
 
 Each project in this repo contains a separate project, complete with documentation, datasets (when shareable), visuals, and Power BI files.
 
+---
+# Profile / Portfolio Link
+
+You can view my full collection of interactive dashboards and case studies here:  
+[Click to view my Power BI Portfolio](https://github.com/Adenuga-Adeyemi/
+
+---
+
 # Featured Projects
 
 -**Deli Grocery Sales Analysis Report** [View Project](https://medium.com/@pearlxta/deli-grocery-sales-analysis-report-278856f89054)
