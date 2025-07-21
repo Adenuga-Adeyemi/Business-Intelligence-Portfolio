@@ -1,6 +1,32 @@
-# Business Intelligence Portfolio
+<h2 align="left">Hi 👋You're Welcome to my Business Intelligence Portfolio!</h2>
 
-Welcome to my Business Intelligence Portfolio—a home for my collection of data projects built using Power BI, Excel, SQL, Python, and more. These projects showcase my experience in building dashboards, analyzing data, and communicating insights across different industries, including retail, healthcare, education, and tech.
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/pearladeyemi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="http://mail.google.com/pearlxta@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Mail&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://medium.com/@pearlxta" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=Follow&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
+  <a href="https://www.youtube.com/@bytediarieswitha" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=Subscribe&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+</div>
+
+###
+---
+# Introduction
+
+Welcome to my Business Intelligence Portfolio—a home for my collection of data projects built using Power BI, Excel, SQL, Python, and more. These projects demonstrate my expertise in building dashboards, analyzing data, and communicating insights across various industries, including retail, healthcare, education, and technology.
 
 Each folder in this repo contains a separate project, complete with documentation, datasets (when shareable), visuals, and Power BI files.
 
