@@ -14,7 +14,7 @@
   <a href="http://mail.google.com/pearlxta@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Mail&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://medium.com/@pearlxta" target="_blank">
+  <a href="https://medium.com/@adeyemi.da" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=Follow&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
   <a href="https://www.youtube.com/@bytediarieswitha" target="_blank">
