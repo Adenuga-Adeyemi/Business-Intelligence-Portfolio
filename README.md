@@ -40,6 +40,12 @@ You can view my full collection of interactive dashboards and case studies here:
 
 # Featured Projects
 
+-**Mpox Trends in Africa** [View Project](https://app.powerbi.com/view?r=eyJrIjoiZWUxZDUyNjctZDY4ZS00MzI3LWJlZWUtNGNmMjkwMGMxZDczIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9) 
+This is an health intelligence report that provides a thorough examination of Mpox trends in Africa from January 2024 to August 2025 to highlight the evolving situation, key data insights, and public health implications.
+
+-**Fitness Tracker** [View Project](https://app.powerbi.com/view?r=eyJrIjoiMmNhZDA0MzAtODAwOC00MjY0LWFhZjgtOTc1NDEzMDI5MWExIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9) 
+This is a fitness log tracker dashboard that helps users monitor and analyze their workout progress over time. It displays key metrics such as BMI calculator, calories burned and client membership types in an easy-to-read format.
+
 -**Deli Grocery Sales Analysis Report** [View Project](https://medium.com/@adeyemi.da/deli-grocery-sales-analysis-report-278856f89054)
 This report highlights a recent project where I designed a 4-page dynamic and interactive Power BI Dashboard for a food grocery store. The primary objective was to help business owners and managers quickly visualize key performance metrics, understand sales trends, and make informed decisions that align with customer needs.
 [*LinkedIn report*](https://www.linkedin.com/posts/pearladeyemi_datavisualization-dashboarddesign-darktheme-activity-7319269499419926529-0r6C) 
