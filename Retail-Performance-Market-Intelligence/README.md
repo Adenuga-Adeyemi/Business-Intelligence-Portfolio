@@ -2,12 +2,9 @@
 
 > **Power BI | Retail Sales Analytics | Data Quality Audit | Profitability | Discount Strategy | Market Intelligence**
 
-A Power BI retail analytics project that audits a transactional sales dataset, corrects critical data-quality issues, and turns the cleaned data into a decision-ready market intelligence dashboard.
+![Dashboard]()
 
-**Project author:** Adeyemi Adenuga  
-**Project context:** Data Science Nigeria (DSN)  
-**Analysis period:** January–August 2026  
-**Geographic coverage:** Lagos, Kano, Ibadan, Port Harcourt, Abuja
+A Power BI retail analytics project that audits a transactional sales dataset, corrects critical data-quality issues, and turns the cleaned data into a decision-ready market intelligence dashboard.
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Report-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.microsoft.com/power-platform/products/power-bi)
 [![Power Query](https://img.shields.io/badge/Power%20Query-ETL-742774?style=for-the-badge)](https://learn.microsoft.com/power-query/)
@@ -45,8 +42,6 @@ The workflow covered:
 The original dashboard showed approximately **₦46.68 million in revenue and 420 transactions**. The audit showed that the underlying data needed substantial correction before the figures could safely be used for management decisions.
 
 All project findings documented here are based on the cleaned analysis described in the source report.
-
-![Project workflow](Images/01_project_workflow.svg)
 
 ---
 
@@ -162,8 +157,6 @@ Product category variations included:
 - Standardised `Accessory` to `Accessories` using **Replace Values**
 
 This ensured that the same market and category were grouped together correctly.
-
-![Data quality audit](Images/02_data_quality_audit.svg)
 
 ---
 
@@ -332,6 +325,7 @@ with breakdowns by:
 - Channel
 
 The documentation notes that several rankings changed after the data was cleaned.
+![Overview](https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/blob/main/Retail-Performance-Market-Intelligence/Images/02_dashboard_overview.png)
 
 ### 3. Discount Analysis Page
 
@@ -342,12 +336,13 @@ The discount analysis examines:
 - The relationship between discount depth and profit margin
 
 The documented analysis identifies a negative relationship between discount depth and profit margin.
+![Discount](Images/03_disount_pages.png)
 
 ### 4. Details / Store-Level Product Performance
 
 This view provides product-level profitability and identifies performing and underperforming product/store combinations.
 
-![Dashboard structure](Images/03_dashboard_pages.svg)
+![Details](Images/04_product_performance.png)
 
 > **Dashboard screenshots:** The source Medium article contains the original dashboard screenshots. This repository keeps the documentation grounded in those published visuals rather than fabricating replacement dashboard screenshots.
 
