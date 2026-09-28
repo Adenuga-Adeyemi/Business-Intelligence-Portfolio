@@ -2,7 +2,7 @@
 
 > **Power BI | Retail Sales Analytics | Data Quality Audit | Profitability | Discount Strategy | Market Intelligence**
 
-![Dashboard]()
+![Dashboard](Images/Sales Command Centre (4).jpg)
 
 A Power BI retail analytics project that audits a transactional sales dataset, corrects critical data-quality issues, and turns the cleaned data into a decision-ready market intelligence dashboard.
 
