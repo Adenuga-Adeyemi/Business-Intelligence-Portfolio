@@ -49,18 +49,14 @@ All project findings documented here are based on the cleaned analysis described
 
 The primary objective was to establish a **single source of truth for retail performance**.
 
-The analysis focused on:
+The key KPIs defined for the corrected dashboard are:
 
-- Total Revenue excluding returns
-- Total Profit excluding returns
-- Profit Margin %
-- Return Rate %
-- Market profitability by state
-- Category profitability
-- Revenue and performance trends
-- Discounting and its relationship with profit margin
-- Channel return behaviour
-- Product and store-level performance
+- Total Revenue (excl. Returns): The actual monetary value of goods sold after discounts and excluding returned items.
+- Total Profit (excl. Returns): The net profit after subtracting the cost of goods sold from the actual revenue.
+- Profit Margin %: The percentage of revenue that translates into profit.
+- Return Rate %: The percentage of transactions that result in a return.
+- Market Profitability: Ranking of states by total profit.
+- Category Profitability: Analysis of revenue, profit, and margin by product category.
 
 ---
 
