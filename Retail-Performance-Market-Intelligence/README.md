@@ -335,7 +335,7 @@ The discount analysis examines:
 - The relationship between discount depth and profit margin
 
 The documented analysis identifies a negative relationship between discount depth and profit margin.
-![Discount](Images/03_disount_pages.png)
+![Discount](https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/blob/main/Retail-Performance-Market-Intelligence/Images/03_discount_analysis.png)
 
 ### 4. Details / Store-Level Product Performance
 
