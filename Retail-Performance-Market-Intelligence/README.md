@@ -338,9 +338,8 @@ The documented analysis identifies a negative relationship between discount dept
 
 This view provides product-level profitability and identifies performing and underperforming product/store combinations.
 
-![Details](Images/04_product_performance.png)
+![Details](https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/blob/main/Retail-Performance-Market-Intelligence/Images/Product%20Performance.png))
 
-> **Dashboard screenshots:** The source Medium article contains the original dashboard screenshots. This repository keeps the documentation grounded in those published visuals rather than fabricating replacement dashboard screenshots.
 
 ---
 
