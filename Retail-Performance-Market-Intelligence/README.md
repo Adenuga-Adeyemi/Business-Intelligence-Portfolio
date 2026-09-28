@@ -113,7 +113,6 @@ Each row represents one transaction line item and includes product, customer, st
 | `Customer_Type` | New or Returning customer |
 | `Sales_Rep` | Sales representative |
 
-> **Dataset note:** The source documentation describes the dataset but does not provide a downloadable copy in the article. No unrelated dataset has been substituted for it in this repository.
 
 ---
 
