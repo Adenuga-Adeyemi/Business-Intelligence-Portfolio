@@ -311,6 +311,7 @@ The documented Power BI dashboard contains four described views:
 ### 1. Home Page
 
 The home page presents headline KPIs and month-over-month indicators. The project documentation describes the initial headline figures as approximately **₦46.68M revenue and 420 transactions**.
+![HP](https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/blob/main/Retail-Performance-Market-Intelligence/Images/01_dashboard_home.png)
 
 ### 2. Overview Page
 
