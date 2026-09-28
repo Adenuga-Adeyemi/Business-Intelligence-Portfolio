@@ -295,7 +295,7 @@ It includes:
 ## Dashboard
 
 The documented Power BI dashboard contains four described views:
-[View the Interactive Power BI Dashboard](https://app.powerbi.com/groups/me/reports/4ad1d736-221e-4a4a-b6de-ab09764bcc18/63d9a33bed40e0539a2e?experience=power-bi&clientSideAuth=0)
+[View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODAzZmZiOGQtMzVmNS00ZTA0LWE2OWItMjRlYWNlN2IxMDQ5IiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9)
 
 ### 1. Home Page
 
