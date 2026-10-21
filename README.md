@@ -39,6 +39,8 @@ You can view my full collection of interactive dashboards and case studies here:
 ---
 
 # Featured Projects
+-**Carvex Logistics Supply Chain Performance Dashboard** [View Project](Carvex-Logistics-Supply-Chain-Performance/README.md)
+A three-page Power BI supply-chain performance project covering overview KPIs, product risk and supplier performance. Documentation and reported results are grounded in the linked source article.
 
 -**Mpox Trends in Africa** [View Project](https://app.powerbi.com/view?r=eyJrIjoiZWUxZDUyNjctZDY4ZS00MzI3LWJlZWUtNGNmMjkwMGMxZDczIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9) 
 This is an health intelligence report that provides a thorough examination of Mpox trends in Africa from January 2024 to August 2025 to highlight the evolving situation, key data insights, and public health implications.

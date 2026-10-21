@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Key figures reported in the Carvex article</title><desc id="desc">Article-reported values: 577.6 thousand dollars revenue, 46 thousand units, 23 percent inspection pass rate, 27 low-stock SKUs, 53 high-risk SKUs, and 17.08-day average supplier lead time.</desc>
+<rect width="1200" height="360" rx="22" fill="#14253d"/><text x="48" y="52" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#fff">ARTICLE-REPORTED FIGURES</text><text x="48" y="78" font-family="Arial,sans-serif" font-size="13" fill="#b6c7dc">Values reproduced from project documentation; not recalculated from the source workbook.</text>
+<g font-family="Arial,sans-serif">
+<g><rect x="48" y="108" width="344" height="96" rx="14" fill="#203953"/><text x="72" y="143" font-size="13" fill="#b6c7dc">TOTAL REVENUE</text><text x="72" y="181" font-size="30" font-weight="700" fill="#fff">$577.6K</text></g>
+<g><rect x="428" y="108" width="344" height="96" rx="14" fill="#203953"/><text x="452" y="143" font-size="13" fill="#b6c7dc">UNITS SOLD</text><text x="452" y="181" font-size="30" font-weight="700" fill="#fff">46K</text></g>
+<g><rect x="808" y="108" width="344" height="96" rx="14" fill="#3d2935"/><text x="832" y="143" font-size="13" fill="#efbdc8">INSPECTION PASS RATE</text><text x="832" y="181" font-size="30" font-weight="700" fill="#ffdae2">23%</text></g>
+<g><rect x="48" y="224" width="344" height="96" rx="14" fill="#203953"/><text x="72" y="259" font-size="13" fill="#b6c7dc">LOW-STOCK SKUs</text><text x="72" y="297" font-size="30" font-weight="700" fill="#fff">27</text></g>
+<g><rect x="428" y="224" width="344" height="96" rx="14" fill="#3d2935"/><text x="452" y="259" font-size="13" fill="#efbdc8">HIGH-RISK SKUs</text><text x="452" y="297" font-size="30" font-weight="700" fill="#ffdae2">53</text></g>
+<g><rect x="808" y="224" width="344" height="96" rx="14" fill="#203953"/><text x="832" y="259" font-size="13" fill="#b6c7dc">AVERAGE SUPPLIER LEAD TIME</text><text x="832" y="297" font-size="30" font-weight="700" fill="#fff">17.08 days</text></g>
+</g></svg>
