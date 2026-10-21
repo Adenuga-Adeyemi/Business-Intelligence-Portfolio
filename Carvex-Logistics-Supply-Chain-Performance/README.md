@@ -4,7 +4,7 @@
 
 A three-page Power BI dashboard documented by [Adeyemi Adenuga](https://medium.com/@adeyemi.da/carvex-logistics-supply-chain-performance-dashboard-2610ac31b8fd). The report brings revenue, inspection quality, inventory exposure, product performance and supplier operations into an executive Overview, Products and Suppliers experience.
 
-![Documented project workflow](Images/project-workflow.svg)
+![Carvex Logistics dashboard cover image from the original Medium article](Images/medium-dashboard-01.png)
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.microsoft.com/power-platform/products/power-bi) [![DAX](https://img.shields.io/badge/DAX-Measures-0C55A5?style=for-the-badge)](https://learn.microsoft.com/dax/) [![Project documentation](https://img.shields.io/badge/Documentation-Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@adeyemi.da/carvex-logistics-supply-chain-performance-dashboard-2610ac31b8fd)
 
@@ -72,15 +72,23 @@ The product page focuses on active range and average selling price, low-stock an
 
 The supplier page compares the five suppliers on reliability, lead time, route and supplier revenue or volume, quality results, costs, and SKUs needing attention.
 
-The image below is a **documentation illustration of the three-page structure**, not a screenshot of the Power BI report.
+The screenshots below are the original Overview, Products and Suppliers pages embedded in the Medium article. The complete report is available through the author’s [interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzBiZTY2M2UtMTM1OS00ZmNlLTk2NmUtMzU4Yzg3ODFiMWZmIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9).
 
-![Three-page dashboard structure illustration](Images/dashboard-structure.svg)
+#### Overview
+
+![Original Executive Overview dashboard screenshot from the Medium article](Images/medium-dashboard-03.png)
+
+#### Products
+
+![Original Product Performance Report screenshot from the Medium article](Images/medium-dashboard-04.png)
+
+#### Suppliers
+
+![Original Supplier Performance Scorecard screenshot from the Medium article](Images/medium-dashboard-05.png)
 
 ## Key Insights
 
-The following figures and observations are reported in the source article. The accompanying image is a compact summary of those reported figures, not a screenshot or a recalculation from the source workbook.
-
-![Article-reported KPI summary](Images/reported-kpis.svg)
+The following figures and observations are reported in the source article and shown in its original dashboard screenshots above.
 
 ### Overview
 
@@ -120,14 +128,16 @@ The article recommends prioritising quality review of high-revenue and high-defe
 Carvex-Logistics-Supply-Chain-Performance/
 ├── README.md
 ├── Images/
-│   ├── dashboard-structure.svg
-│   ├── project-workflow.svg
-│   └── reported-kpis.svg
+│   ├── medium-dashboard-01.png
+│   ├── medium-dashboard-02.png
+│   ├── medium-dashboard-03.png
+│   ├── medium-dashboard-04.png
+│   └── medium-dashboard-05.png
 └── PowerBI/
     └── DAX_Measures.md
 ```
 
-The source article does **not** provide an accessible `.pbix`/`.pbip` file, the source dataset, dashboard screenshots, or a working interactive-report URL. This repository includes the actual DAX transcribed from the article and clearly labelled explanatory illustrations; it does not substitute a fabricated Power BI file or screenshots. The report file can be added to `PowerBI/` when the original project is available.
+The original article images are preserved in `Images/` and the interactive report is linked above. The article does not supply the `.pbix`/`.pbip` project file or the source dataset, so neither is included here. The screenshots are the original article assets, not recreated images.
 
 ## Conclusion
 
@@ -135,4 +145,4 @@ The documented Carvex dashboard brings sales, quality, inventory, product and su
 
 ## Source
 
-All project-specific descriptions, measures and reported findings above are based on the original article: [Carvex Logistics Supply Chain Performance Dashboard — Adeyemi Adenuga](https://medium.com/@adeyemi.da/carvex-logistics-supply-chain-performance-dashboard-2610ac31b8fd).
+The images in `Images/` are downloaded from the original article’s Medium CDN and retain their original content. Project descriptions, measures, reported findings, screenshots, and the interactive report link are sourced from: [Carvex Logistics Supply Chain Performance Dashboard — Adeyemi Adenuga](https://medium.com/@adeyemi.da/carvex-logistics-supply-chain-performance-dashboard-2610ac31b8fd).
